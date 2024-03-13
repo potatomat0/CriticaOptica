@@ -4,7 +4,7 @@ title: Critical THeory Visualized
 
 ## How to use this website
 
-### Search:
+### Searching:
 
 Click the search bar at the top right of the site, or `Ctrl+K (Command + K for Mac)` for fuzzy search.
 
@@ -14,7 +14,10 @@ Click the search bar at the top right of the site, or `Ctrl+K (Command + K for M
 - Explore backlinks for related entries.
 - Hover on underlined text for content previews.
 
-Have fun wandering around the web
+> [!NOTE]
+> Visit [[About - Critica Optica]] if you want to learn about the website itself
+
+Have fun wandering around the web.
 
 
 
