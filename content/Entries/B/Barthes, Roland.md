@@ -104,9 +104,7 @@ a delivery van. (Laurent Binet has used Barthes' death as the basis of a
 mystery novel entitled *The 7th Function of Language*.) He was taken to
 the Hôpital Pitié-Salpêtrière and although the doctors did not think
 he'd been seriously injured he never regained his health and died a few
-weeks later on March 26. *See also* [readerly and
-writerly](#X0be17cb2762097c56ff476e935f10439f899278); [work and
-text](#Xe96f0d7a3476792ed795ec94d30fabaa424ea4e).
+weeks later on March 26. *See also* [[readerly| readerly and writerly]], [[work|work and text]].
 **Further Reading:** R. Bensmaïa *The Barthes Effect: The Essay as
 Reflective Text* (1987).
 J. Calvet *Roland Barthes: A Biography* (1994).

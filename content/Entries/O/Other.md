@@ -1,6 +1,6 @@
-[[Other]] [[Levinas, Emmanuel]]
+[[Other]]
 
-'s concept of
+[[Levinas, Emmanuel]]'s concept of
 Ethics is centred on the problematic of the relation between being and
 that which is otherwise than being (the title of one of his later
 books), or the self and Other (which he capitalizes to distinguish it

@@ -85,11 +85,4 @@ S. Critchley *The Ethics of Deconstruction* (1992).
 C. Davis *Levinas: An Introduction* (1996).
 J. Derrida *Adieu to Emmanuel Levinas* (1999).
 R. Eaglestone *Ethical Criticism: Reading after Levinas* (1997).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
 <http://www.levinas.sdsu.edu/>
-• The Emmanuel Levinas web page.
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
-<http://www.levinas.fr/default.asp>
-• The Institute for Levinassian Studies website.

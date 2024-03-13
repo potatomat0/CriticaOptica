@@ -1,5 +1,5 @@
 ---
-title: Critical THeory Visualized
+title: Critical Theory Visualized
 ---
 
 ## How to use this website
