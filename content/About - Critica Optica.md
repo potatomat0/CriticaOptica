@@ -2,7 +2,7 @@
 title: About
 ---
 
-CriticaOptica is a minimal, curated online resource designed to provide easy access to critical theory concepts. To learn more about using this website effectively, go to the [[content/index|Home page]]. 
+CriticaOptica is a minimal, curated online resource designed to provide easy access to critical theory concepts. To learn more about using this website effectively, go to the [[index|Home page]]. 
 ## What is the source for all the notes? 
 
 All the notes are taken from the reference book `Oxford's A Dictionary of Critical Theory` by Ian Buchanan, (2 ed. 2018) . the eISBN of the book is `9780191836305`
@@ -19,7 +19,7 @@ This website is intended to function as a:
 
 > [!NOTE]
 > While CriticaOptica strives to remain neutral in its presentation, it's important to acknowledge a potential inherent bias. Due to the focus on Continental Philosophy, many of the thinkers explored here lean towards Leftist, Anarchist, neo-Marxist, and anti-capitalist ideologies. 
-## What is this site NOT 
+## What this site is NOT 
 
 CriticaOptica is not intended to be:
 
