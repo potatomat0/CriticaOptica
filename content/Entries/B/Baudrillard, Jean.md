@@ -107,8 +107,7 @@ M. Gane *Baudrillard's Bestiary* (1991).
 G. Genosko *Baudrillard and Signs* (1998).
 P. Hegarty *Jean Baudrillard: Live Theory* (2004).
 D. Kellner *Jean Baudrillard* (1989).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.erraticimpact.com/~20thcentury/html/baudrillard.htm>
 • Links to online resources relating to Jean Baudrillard's biography and
 his work.

@@ -126,8 +126,7 @@ J. Derrida *Spurs: Nietzsche's Styles* (1979).
 A. Nehamas *Nietzsche: Life as Literature* (1985).
 L. Spinks *Friedrich Nietzsche* (2003).
 M. Tanner *Nietzsche* (1994).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <https://fns.org.uk/>
 • The website of the Friedrich Nietzsche Society, which includes links
 to resources and discussion boards (subscription).

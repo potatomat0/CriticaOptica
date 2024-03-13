@@ -72,18 +72,15 @@ M. Gale *Dada and Surrealism* (1997).
 D. Hopkins *Dada and Surrealism: A Very Short Introduction* (2004).
 M. Nadeau *Histoire du Surréalism* (1964), translated as The History of
 Surrealism (1968).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.surrealism.org/>
 • A brief overview of the Surrealist movement and short biographies of
 famous Surrealists.
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.surrealist.com/>
 • A history of Surrealism and Surreal art, as well as information about
 famous Surrealists.
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.surrealismcentre.ac.uk/>
 • The website of the Centre for Studies of Surrealism and its Legacies,
 which comprises the Universities of Essex, Manchester, and Tate.

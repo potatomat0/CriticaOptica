@@ -36,7 +36,6 @@ and society and to this end emphasized totemic and mythic subjects.
 the Twentieth Century* (2004).
 P. Wollen *Raiding the Icebox: Reflections on Twentieth-Century Culture*
 (1993).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.cddc.vt.edu/sionline/presitu/cobra.html>
 • Translations of COBRA manifestos.

@@ -46,7 +46,6 @@ of content.
 F. Jameson *The Prison-House of Language* (1972).
 R. Schleifer *A.J. Greimas: Linguistics, Semiotics and Discourse Theory*
 (1987).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.signosemio.com/greimas/index-en.asp>
 • An overview of a number of semioticians including Algirdas Greimas.

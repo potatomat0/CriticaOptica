@@ -80,8 +80,7 @@ Glory* (2011), and *The Highest Poverty* (2013).
 Deconstruction* (2014).
 L. De la Durantaye *Giorgio Agamben: A Critical Introduction* (2009).
 C. Mills *The Philosophy of Agamben* (2008).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.iep.utm.edu/agamben/>
 • A comprehensive overview of Giorgio Agamben's work, with references
 and further reading.

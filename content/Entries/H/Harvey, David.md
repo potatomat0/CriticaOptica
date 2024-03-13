@@ -198,5 +198,4 @@ burden that reduces his freedom.
 **Further Reading:** S. Houlgate *An Introduction to Hegel* (2005).
 R. Pippin *Hegel's Idealism: The Satisfactions of Self-Consciousness*
 (1989).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 

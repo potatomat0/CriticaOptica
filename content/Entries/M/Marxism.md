@@ -42,12 +42,10 @@ point and to a certain degree developed independently of the more
 pragmatic version of Marxism that obtained in the USSR. *See also*
 [[critical theory]].
 **Further Reading:** D. McLellan *Marxism After Marx* (2007).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.marxists.org/>
 • An exhaustive range of resources and information about Marxism which
 can be searched by subject author or history.
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.marxism.org.uk/>
 • A Socialist Party website that provides an overview of Marxism.

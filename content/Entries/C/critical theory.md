@@ -82,8 +82,7 @@ D. Frisby *Fragments of Modernity* (1985).
 D. Held *Introduction to Critical Theory* (1980).
 F. Rush (ed.) *The Cambridge Companion to Critical Theory* (2004).
 P. Stirk *Critical Theory, Politics and Society* (2000).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.uta.edu/huma/illuminations/>
 • A collection of resources, based in the Frankfurt School of thought,
 from many contemporary writers of and about critical theory, as well as

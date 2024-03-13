@@ -64,8 +64,7 @@ techniques it pioneered continue to exert an effect today.
 **Further Reading:** M. Gale *Dada and Surrealism* (1997).
 D. Hopkins *Dada and Surrealism: A Very Short Introduction* (2004).
 H. Richter *Dada: Art and Anti-Art* (1964).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://members.peak.org/~dadaist/English/Graphics/index.html>
 • A site providing definitions and biographical overviews of notable
 Dada artists together with examples of artwork.

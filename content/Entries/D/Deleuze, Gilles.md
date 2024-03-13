@@ -177,8 +177,7 @@ I. Buchanan *Deleuze and Guattari's Anti-Oedipus* (2008).
 C. Colebrook *Gilles Deleuze* (2002).
 F. Dosse *Gilles Deleuze et Félix Guattari: Biographie Croisée* (2007).
 M. Hardt *Gilles Deleuze* (1993).
-![[diaspora]]{width="0.7930555555555555in"
-height="0.13333333333333333in"}
+ 
 <http://www.langlab.wayne.edu/CStivale/D-G/ABCs.html>
 • An excellent resource, which contains transcriptions in English of
 Gilles Deleuze's lectures and interviews as well as links to ongoing
