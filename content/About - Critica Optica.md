@@ -2,7 +2,7 @@
 title: About
 ---
 
-CriticaOptica is a minimal, curated online resource designed to provide easy access to critical theory concepts.
+CriticaOptica is a minimal, curated online resource designed to provide easy access to critical theory concepts. To learn more about using this website effectively, go to the [[content/index|Home page]]. 
 ## What is the source for all the notes? 
 
 All the notes are taken from the reference book `Oxford's A Dictionary of Critical Theory` by Ian Buchanan, (2 ed. 2018) . the eISBN of the book is `9780191836305`
