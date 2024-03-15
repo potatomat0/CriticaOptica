@@ -1,6 +1,6 @@
-[[nomadology]] [[Deleuze, Gilles]]
+[[nomadology]]
 
- and Félix
+[[Deleuze, Gilles]] and Félix
 Guattari's utopian project outlined in *Mille Plateaux* (1980),
 translated as *A Thousand Plateaus* (1987). The origin of the word
 'nomad' is not, as many have assumed, a romanticized image of actual

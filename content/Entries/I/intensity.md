@@ -1,6 +1,6 @@
-[[intensity]] [[Deleuze, Gilles]]
+[[intensity]]
 
-'s term, derived
+[[Deleuze, Gilles]]'s term, derived
 from language philosophy, for the specific criteria that determine that
 something is one kind of thing and not another. Because Deleuze uses it
 to theorize the ontology of literally everything, including

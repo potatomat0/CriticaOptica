@@ -1,6 +1,6 @@
-[[control society]] [[Deleuze, Gilles]]
+[[control society]]
 
-'s dark vision of
+[[Deleuze, Gilles]]'s dark vision of
 what comes after [[Foucault, Michel]]'s concept of
 [[discipline]] and the model
 of society it creates (the phrase itself is taken from William S.
