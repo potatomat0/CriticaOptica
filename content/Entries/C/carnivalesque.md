@@ -1,4 +1,4 @@
-[[carnivalesque]] [[Bakhtin, Mikhail]]
+[[carnivalesque]]
 
 , a Russian
 linguist and literary critic writing in the first half of the twentieth
